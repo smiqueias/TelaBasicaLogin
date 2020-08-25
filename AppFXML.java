@@ -26,12 +26,6 @@ public class AppFXML extends Application {
 		Scene cena = new Scene(raiz, 350,400);
 		cena.getStylesheets().add(arquivoCSS);
 		
-		
-		
-		
-		
-		
-		
 		palco.setResizable(false);
 		palco.setTitle("Tela de login");
 		palco.setScene(cena);
